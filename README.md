@@ -14,15 +14,15 @@ Minha apresentação readme
 </br>
 
 <div align="center">
-<a href="https://github.com/d-araujo/d-araujo/blob/main/Curr%C3%ADculo.pdf" target="_blank">Currículo</a>
+<a href="x" target="_blank">Currículo</a>
 </div>
 
 </br>
 
 <div align="center">
-  <a href="https://github.com/d-araujo">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=d-araujo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-araujo&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/Gamabg">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gamabg&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamabg&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
