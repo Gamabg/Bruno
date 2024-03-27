@@ -1,6 +1,6 @@
 # Gama
-<div align="center">
-### Olá, sou o Bruno Gama
+<div align="center" style="font-family:Arial; font-weight:bold;">
+Olá, sou o Bruno Gama
 <div/>
 
 <div align="center">
